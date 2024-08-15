@@ -1,0 +1,136 @@
+body {
+    color: white;
+    background: black;
+    margin: 0px;
+    font-family: "Chakra Petch", sans-serif;
+    margin-bottom: 100px;
+}
+
+header {
+    border-bottom: solid 2px rgb(161, 176, 250);
+    padding: 20px;
+    font-size: 32px;
+    color: rgb(161, 176, 250);
+}
+
+.chamada {
+    background: rgb(40, 40, 66);
+    padding-bottom: 30px;
+    padding-top: 30px;
+    display: flex;
+    justify-content: center;
+
+}
+
+.chamada-texto {
+    margin: 5%;
+
+}
+
+h1 {
+    font-size: 40px;
+}
+
+p {
+    font-size: 20px;
+}
+
+
+.BR{
+    display:flex;
+    overflow-x: auto;
+    gap: 10px;
+}
+
+.Brs{
+    padding-left: 20px;
+    padding-right: 20px;
+
+
+}
+.BR img {
+    opacity: 0.5;
+    height: 200px;
+
+}
+
+.BR img:hover {
+    opacity: 1;
+    border: 1px solid blue;
+}
+
+.Brs h2 {
+  color: rgb(161, 176, 250)
+
+}
+
+.Brs {
+   margin-top: 50px;
+   margin-bottom: 50px;
+
+}
+
+.gringos{
+    display:flex;
+    overflow-x: auto;
+    gap: 10px;
+}
+.gringos img {
+    opacity: 0.5;
+    height: 200px;
+
+}
+.gringos img:hover {
+    opacity: 1;
+    border: 1px solid blue;
+}
+
+.videos-gringos h2 {
+    color: rgb(161, 176, 250)
+  
+  }
+
+  .videos-gringos {
+    margin-top: 50px;
+    margin-bottom: 50px;
+ 
+ }
+
+ .videos-speedpaint{
+    display:flex;
+    overflow-x: auto;
+    gap: 10px;
+}
+.videos-speedpaint img {
+    opacity: 0.5;
+    height: 200px;
+
+}
+.videos-speedpaint img:hover {
+    opacity: 1;
+    border: 1px solid blue;
+}
+
+.speedpaint h2 {
+    color: rgb(161, 176, 250)
+  
+  }
+
+  .speedpaint {
+    margin-top: 50px;
+    margin-bottom: 50px;
+ 
+ }
+
+ .videos-gringos{
+    padding-left: 20px;
+    padding-right: 20px;
+
+
+}
+.speedpaint{
+    padding-left: 20px;
+    padding-right: 20px;
+
+
+}
